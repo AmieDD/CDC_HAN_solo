@@ -1,6 +1,8 @@
-# Repository Name
+# CDC HAN solo
+**As a first step, this document is under governance review.**
 
-**As a first step, this document is under governance review. When the review completes as appropriate per local and agency processes, the project team will be allowed to remove this notice. This material is draft.**
+## API Research
+https://www.opendatanetwork.com/
 
 **General disclaimer** This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/organization/mission.htm).  Github is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software.
 
@@ -43,12 +45,7 @@ For more information about CDC's privacy policy, please visit [http://www.cdc.go
 
 ## Contributing Standard Notice
 Anyone is encouraged to contribute to the repository by [forking](https://help.github.com/articles/fork-a-repo)
-and submitting a pull request. (If you are new to GitHub, you might start with a
-[basic tutorial](https://help.github.com/articles/set-up-git).) By contributing
-to this project, you grant a world-wide, royalty-free, perpetual, irrevocable,
-non-exclusive, transferable license to all users under the terms of the
-[Apache Software License v2](http://www.apache.org/licenses/LICENSE-2.0.html) or
-later.
+and submitting a pull request. 
 
 All comments, messages, pull requests, and other submissions received through
 CDC including this GitHub page are subject to the [Presidential Records Act](http://www.archives.gov/about/laws/presidential-records.html)
